@@ -5,7 +5,7 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
-
+## Sathvik Kasthuri
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
